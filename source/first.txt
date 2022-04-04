@@ -1,1 +1,1 @@
-this is my first new file in the remote repository
+this is my first new folder in the remote repository
